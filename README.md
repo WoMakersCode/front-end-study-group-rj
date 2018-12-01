@@ -1,5 +1,9 @@
 # Front-end Study Group RJ
 Repositório para armazenar desafios e conteúdos do Front-end Study Group RJ
 
-## Desafios apresentados no evento #2
+## Desafios Evento #2
+
+[Guia Rápido de Orientações para os Desafios](guiaRapidoDesafiosFESGRJ2.pdf)
+
 * [Desafio#1](desafio1.md)
+
