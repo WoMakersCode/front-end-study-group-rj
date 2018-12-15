@@ -6,4 +6,5 @@ Repositório para armazenar desafios e conteúdos do Front-end Study Group RJ
 [Guia Rápido de Orientações para os Desafios](guiaRapidoDesafiosFESGRJ2.pdf)
 
 * [Desafio#1](desafio1.md)
+* [Desafio#2](desafio2.md)
 
