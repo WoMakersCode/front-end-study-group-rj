@@ -1,3 +1,5 @@
+# Desafio #2 - Implementação do CSS3
+
 O objetivo dos desafios é a elaboração de um portfólio, de modo que ao final a participante tenha um site para publicação de seus trabalhos. Os desafios são iterativos e devem ser feitos na ordem. Então, se você ainda não concluiu o [Desafio #1](desafio1.md), termine ele e depois volte aqui. 
 
 Neste desafio você deve implementar o estilo usando **CSS3** com base no [template](template.png). Os arquivos no formato .css devem ser criados na pasta css. 
