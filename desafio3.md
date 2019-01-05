@@ -1,3 +1,5 @@
+# Desafio #3 - Design Responsivo
+
 O objetivo dos desafios é a elaboração de um portfólio, de modo que ao final você tenha um site para publicação de seus trabalhos. Os desafios são iterativos e devem ser feitos na ordem, caso ainda não tenha feito o [#1](desafio1.md) e o [#2](desafio2.md), conclua-os antes de começar este.
 
 Se você já fez os desafios anteriores, agora você já tem o layout implementado em HTML e CSS, então precisa se certificar de que ele funcione bem em diferentes dispositivos, ou seja, que possa ser utilizado em smartphones e tablets sem necessidade de zoom.
