@@ -8,5 +8,5 @@ Repositório para armazenar desafios e conteúdos do Front-end Study Group RJ
 * [Desafio#1](desafio1.md)
 * [Desafio#2](desafio2.md)
 * [Desafio#3](desafio3.md)
-* [Desafio#3](desafio4.md)
+* [Desafio#4](desafio4.md)
 
