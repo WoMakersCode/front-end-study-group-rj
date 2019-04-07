@@ -1,12 +1,15 @@
-# Front-end Study Group RJ
-Repositório para armazenar desafios e conteúdos do Front-end Study Group RJ
+# Desafio Photo Grid # 
 
-## Desafios Evento #2
+Página estilo Photo Grid desenvolvido em HTML e CSS usando as propriedades do Flexbox e o conceito Mobile First. 
 
-[Guia Rápido de Orientações para os Desafios](guiaRapidoDesafiosFESGRJ2.pdf)
+## Orientação para as mentoras ##
 
-* [Desafio#1](desafio1.md)
-* [Desafio#2](desafio2.md)
-* [Desafio#3](desafio3.md)
-* [Desafio#4](desafio4.md)
+- Fazer com que as mentorandas consigam desenvolver um Photo Grid com apoio das mentoras
 
+- Depois de finalizado vamos ensinar as mentorandas a subirem no Github e publicarem no Github Pages
+
+- Comentários foram deixados no código com o objetivo de orientar às mentoras e também às mentorandas em caso de dúvidas
+
+- Plus: se quiserem ensinar às mentorandas o uso da medida rem para deixar os valores mais escaláveis será uma boa dica de aprendizado! Por padrão vamos deixar as medidas em px
+
+Bons estudos! :) 
