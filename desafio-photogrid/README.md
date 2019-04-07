@@ -1,5 +1,7 @@
 # Desafio Photo Grid # 
 
+Página estilo Photo Grid desenvolvido em HTML e CSS usando as propriedades do Flexbox e o conceito Mobile First. 
+
 ## Orientação para as mentoras ##
 
 - Fazer com que as mentorandas consigam desenvolver um Photo Grid com apoio das mentoras
