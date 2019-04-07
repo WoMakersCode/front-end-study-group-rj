@@ -1,6 +1,6 @@
 # Desafio Photo Grid # 
 
-Orientação para as mentoras 
+## Orientação para as mentoras ##
 
 - Fazer com que as mentorandas consigam desenvolver um Photo Grid com apoio das mentoras
 
