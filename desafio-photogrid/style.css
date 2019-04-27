@@ -79,6 +79,12 @@ header .about p {
   transition: transform 0.3s ease-in-out; /* usamos o transition para criar uma animação quando ocorre o evento de mouseover na foto. O transform e o ease-in-out nos permite criar uma transição do hover mais suave e fluída */ 
 }
 
+@media (min-width: 768px) { 
+  .item { 
+    margin: 15px;  
+  }
+}
+
 .item:hover { 
    transform: scale(1.05); /* quando ocorrer o evento de mouseover usamos o transform scale para aumentar o tamanho da imagem */
 }
