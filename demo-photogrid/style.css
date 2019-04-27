@@ -2,16 +2,17 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo'); /* esse google font pode ser alterado à escolha da mentoranda */ 
 
 body {
-  margin: 0;
-  font-family: 'Arvo', monospace; 
   background: #f5f4f4;
+  font-family: 'Arvo', serif; 
+  margin: 0;
+  padding: 0; 
 }
 
 header { 
   display: flex; /* usando o display flex para trabalhar com o posicionamento dos elementos */ 
   justify-content: center; /* usando o center para alinhar ao centro os elementos que forem surgindo no header */ 
-  max-width: 992px;
   margin: 40px auto;
+  max-width: 992px;
 }
 
 @media (min-width: 768px) { /* mobile first! como pode perceber, estamos definindo as regras gerais do elemento usando o conceito do mobile first (ver documentação). Só usamos as medias queries para estabelecer regras específicas dos elementos em resoluções a partir do 768px */ 
@@ -49,6 +50,10 @@ header .about h1 {
   font-size: 28px;
 }
 
+header .about p { 
+  font-size: 16px;
+}
+
 @media (min-width: 768px) { 
   header .about h1 {
     font-size: 32px;
@@ -67,9 +72,8 @@ header .about h1 {
 }
 
 .item { /* não precisamos o usar o display flex novamente aqui porque já declaramos na div pai (grid) */ 
-  box-shadow: -2px 2px 10px 0px rgba(#444, 0.4); 
+  box-shadow: -2px 2px 10px 0px rgba(68, 68, 68, .4); 
   cursor: pointer;
-  counter-increment: item-counter;
   flex-direction: column; /* usamos o flex-direction para determinar a estrutura do nosso elemento com flexbox, se ele será no formato row (linha) ou coluna (column) */
   padding: 15px;
   transition: transform 0.3s ease-in-out; /* usamos o transition para criar uma animação quando ocorre o evento de mouseover na foto. O transform e o ease-in-out nos permite criar uma transição do hover mais suave e fluída */ 
@@ -81,8 +85,11 @@ header .about h1 {
 
 .item .item__details { 
   background-color: #fff; 
-  font-size: 13px;
   padding: 15px;
+}
+
+.item .item__details span { 
+  font-size: 13px;
 }
 
 .item .item__details img { 
