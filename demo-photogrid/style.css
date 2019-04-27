@@ -79,7 +79,9 @@ header .about p {
 }
 
 @media (min-width: 768px) { 
-  margin: 15px; 
+  .item { 
+    margin: 15px;  
+  }
 }
 
 .item:hover { 
