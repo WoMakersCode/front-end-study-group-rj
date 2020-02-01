@@ -7,7 +7,7 @@ $(function(){
     $("#gogogo").click(function() {
     
         var numLow = 1;
-        var numHigh = 21;
+        var numHigh = 22;
         
         var adjustedHigh = (parseFloat(numHigh) - parseFloat(numLow)) + 1;
         
